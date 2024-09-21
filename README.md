@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Diang</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a future passionate developer and always eager to learn new things. always</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a future passionate developer and always eager to learn new things.</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/26/bb/4f/26bb4f08d445790b80e7a1d90dfb65ab.gif" alt="coding gif">
 
 - 🌱 I’m currently learning **Javascript and React**
